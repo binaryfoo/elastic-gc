@@ -1,0 +1,1 @@
+Experimenting with pushing JVM garbage collection log data to elasticsearch.
